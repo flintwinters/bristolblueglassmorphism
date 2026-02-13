@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <img src="https://qforj.com/jisp.png" height="64px"> -->
+<img src="https://raw.githubusercontent.com/flintwinters/bristolblueglassmorphism/main/bristol_blue_vase.png" height="128px">
 
 # Bristol Blue Glassmorphism
 
